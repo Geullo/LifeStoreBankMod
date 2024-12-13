@@ -1,0 +1,120 @@
+{
+   "phone.calling":{
+      "sounds":[{
+         "name":"bank:calling"
+      }]
+   },
+   "phone.call_connection":{
+      "sounds":[{
+         "name":"bank:call_connection"
+      }]
+   },
+   "bgm.haldesu":{
+      "sounds":[{
+         "name":"bank:haldesu",
+         "stream": true
+      }]
+   },
+   "bgm.piosa":{
+      "sounds":[{
+         "name":"bank:piosa",
+         "stream": true
+      }]
+   },
+   "bgm.popo":{
+      "sounds":[{
+         "name":"bank:popo",
+         "stream": true
+      }]
+   },
+   "bgm.equele":{
+      "sounds":[{
+         "name":"bank:equele",
+         "stream": true
+      }]
+   },
+   "bgm.berenty":{
+      "sounds":[{
+         "name":"bank:berenty",
+         "stream": true
+      }]
+   },
+   "bgm.main":{
+      "sounds":[{
+         "name":"bank:main",
+         "stream": true
+      }]
+   },
+   "bgm.cave":{
+      "sounds":[{
+         "name":"bank:cave",
+         "stream": true
+      }]
+   },
+   "bgm.farm":{
+      "sounds":[{
+         "name":"bank:farm",
+         "stream": true
+      }]
+   },
+   "bgm.fruit":{
+      "sounds":[{
+         "name":"bank:fruit",
+         "stream": true
+      }]
+   },
+   "bgm.sea":{
+      "sounds":[{
+         "name":"bank:sea",
+         "stream": true
+      }]
+   },
+   "bgm.hanggu":{
+      "sounds":[{
+         "name":"bank:hanggu",
+         "stream": true
+      }]
+   },
+   "bgm.mine":{
+      "sounds":[{
+         "name":"bank:mine",
+         "stream": true
+      }]
+   },
+   "bgm.museum":{
+      "sounds":[{
+         "name":"bank:museum",
+         "stream": true
+      }]
+   },
+   "bgm.beolmok":{
+      "sounds":[{
+         "name":"bank:beolmok",
+         "stream": true
+      }]
+   },
+   "bgm.opening":{
+      "sounds":[{
+         "name":"bank:opening",
+         "stream": true
+      }]
+   },
+   "bgm.jump":{
+      "sounds":[{
+         "name":"bank:jump",
+         "stream": true
+      }]
+   },
+   "bgm.apemffl":{
+      "sounds":[{
+         "name":"bank:apemffl",
+         "stream": true
+      }]
+   },
+   "bgm.djzntmxlr":{
+      "sounds":[{
+         "name":"bank:djzntmxlr",
+         "stream": true
+      }]
+   }
+}
